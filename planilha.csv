@@ -1,0 +1,11 @@
+Codigo Produto;Produto;Preço;Peso Produto;Medida Produto
+1;Pão;R$ 0.4;0.10 ;g
+2;Rosca;R$ 15.00;1.00;Kg
+3;Presunto;R$ 28.00;1.00;Kg
+4;Mussarela;R$ 45.00;1.00;Kg
+5;Pão de queijo;R$ 30.00;0.700;g
+6;Queijo;R$ 28.00;1.200;Kg
+7;Suco;R$ 4.00;1;Lt
+8;Leite;R$ 3.00;1;Lt
+9;Refrigerante;R$ 8.00;1;Lt
+10;Salgados;R$ 5.00;1;Uni
